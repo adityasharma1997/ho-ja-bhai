@@ -3,4 +3,20 @@ cd "above_name_/"  to change to that above directory
 git init -- will initialize the git in this folder and u can see ls -a will show one .git file 
 
 
-git status -- it will give the status of all untracked files.
+git status -- it will give the status of all untracked files in red.
+
+
+git add "filename" --- it will make the file as tracked by git
+and now this file comes under staging concept.
+Staging area-- is basically those stages where u want to keep all the files before committing.
+
+
+as git will just use to track all the work from the files.
+
+
+git commit -m "initial commit"   by passing the message in ""  -m means we r gonna pass message.
+  It will commit all the files.
+
+
+git log will give us all the commit that have been done .
+
