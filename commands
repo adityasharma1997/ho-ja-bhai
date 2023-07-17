@@ -1,0 +1,6 @@
+mkdir "name _of directory"--- name of the directory that u r making 
+cd "above_name_/"  to change to that above directory
+git init -- will initialize the git in this folder and u can see ls -a will show one .git file 
+
+
+git status -- it will give the status of all untracked files.
