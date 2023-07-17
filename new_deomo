@@ -1,1 +1,11 @@
-master is by default branch and we can create as many branch as we want there will follow the tree like structure and each branch will be working different and no one knows what's going inside that.
+basically git m ek branch bnit h main or hr baar nyi branch bnakr checkout krke usme kaam kr skte ho or vo main branch s alag hogi
+
+
+or kisi bhi branch m kaam krna h toh alag s kaam kro or fr jb lge toh merge krdo 
+
+jis brnach m merge krna h us branch m jao or 
+git merge "jisbranch_ko krna h vo likho"
+
+ sare chnages show hone lgenge fr.
+ 
+fr saare merge changes dikhne lgenge isme bhi.
