@@ -57,3 +57,5 @@ make a file .gitignore(by using touch command)
 or jo file secret h if that is hide.txt
  then write hide.txt in .gitignore file
  nad then it will not be viewwed or showed in git status.
+
+ gitignore ko bhi gitignore m daal skte h toh bhi y track nhi hogi
