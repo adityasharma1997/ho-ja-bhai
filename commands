@@ -20,3 +20,27 @@ git commit -m "initial commit"   by passing the message in ""  -m means we r gon
 
 git log will give us all the commit that have been done .
 
+
+git add .(dot) --> it will move all the unstages file into stages phase u don't have to add all the files individually.
+
+git checkout --->>> It is used to go to previous versions 
+
+Like if we write git checkout hashcode written in log of that commit 
+Then it will move to that version nad remove after that all.
+
+
+
+git checkout master or main whatever is written --->>> It is used to come to recent one 
+
+
+
+checkout command is used to move from one branch to other branch.
+
+
+git branch name --->> it is used to make another branch.
+
+git branch -->> will show all the branch in the git.
+
+
+
+git checkout -b "name" --->> make new branch nad by default checkout bhi kr jayegi usme.
