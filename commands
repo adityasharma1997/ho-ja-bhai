@@ -44,3 +44,16 @@ git branch -->> will show all the branch in the git.
 
 
 git checkout -b "name" --->> make new branch nad by default checkout bhi kr jayegi usme.
+
+
+
+
+
+Sometimes we don't like some of the things to not go nd be viewed by anyone else 
+on git so we save that under gitignore
+
+
+make a file .gitignore(by using touch command) 
+or jo file secret h if that is hide.txt
+ then write hide.txt in .gitignore file
+ nad then it will not be viewwed or showed in git status.
