@@ -73,7 +73,18 @@ or jo file secret h if that is hide.txt
 
  git remote add origin "url"  ----->>>>>>  after writing this just type git remote add origin "url"
 (origin is the name we have given)
+
+
 Add the origin(remote)
 
 
  After this if we again write git remote -v it shows the command for fetch and push into this repositiry
+
+
+For pushing into branch ----->>>>
+    git branch -M main
+    git push -u origin(konsi branch ko krna h) main(kisme krna h)
+
+
+    kuch nya dikha kya>
+    
