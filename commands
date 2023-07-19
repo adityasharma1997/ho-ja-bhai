@@ -87,4 +87,18 @@ For pushing into branch ----->>>>
 
 
     kuch nya dikha kya>
+
+--force is used to push forcedly 
+
+git pull from pulling al  the changes 
+
+git fork is uski ek copy apne local m bnana
+
+
+VIM edit mode k liye i tye kro to get into insert.
+
+
+ek nyi branch bnakr ke hmne changes kr liye ab hm pull request dalenge jo 
+main owner p jayegi nd then he can check wether jo usne kiya h  shi h ya nhi
+then it will merge acc to that. and will merge that.by approving that.
     
