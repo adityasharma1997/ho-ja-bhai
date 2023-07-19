@@ -65,3 +65,15 @@ or jo file secret h if that is hide.txt
  Now we see how github is connected with git 
 
  Just go to github and make a repository 
+
+
+
+ git remote -v  ---->>  It is used to add this whole git into that github it will 
+ simultaneoulsy access the whole push and fetsch part..
+
+ git remote add origin "url"  ----->>>>>>  after writing this just type git remote add origin "url"
+(origin is the name we have given)
+Add the origin(remote)
+
+
+ After this if we again write git remote -v it shows the command for fetch and push into this repositiry
